@@ -1,5 +1,5 @@
-# voice-translator-using-NLP
-This project is a voice translation and analysis tool. It allows you to speak into your microphone, detects the language of the spoken text, translates it into Desired lanhauge(i have Chosen Kanadda), converts the translated text to speech, and then plays the audio. Additionally, it performs named entity recognition and sentiment analysis on the spoken text.
+# voice-translator-using-NLP 
+This project is a voice translation using Natural language processing. It allows you to speak into your microphone, detects the language of the spoken text, translates it into Desired lanhauge(i have Chosen Kanadda), converts the translated text to speech, and then plays the audio. Additionally, it performs named entity recognition and sentiment analysis on the spoken text.
 ## Features:
 **Speech Recognition**: Recognizes speech from the microphone.
 - **Language Detection**: Automatically detects the language of the spoken text.
